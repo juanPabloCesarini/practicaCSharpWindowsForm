@@ -1,0 +1,9 @@
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\bin\Debug\Clase2Ej1.exe.config
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\bin\Debug\Clase2Ej1.exe
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\bin\Debug\Clase2Ej1.pdb
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\obj\Debug\Clase2Ej1.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\obj\Debug\Clase2Ej1.FRMForm1.resources
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\obj\Debug\Clase2Ej1.Properties.Resources.resources
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\obj\Debug\Clase2Ej1.csproj.GenerateResource.cache
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\obj\Debug\Clase2Ej1.exe
+C:\Users\Juan Pablo\Documents\GitHub\practicaCSharpWindowsForm\Clase2Ej1\Clase2Ej1\obj\Debug\Clase2Ej1.pdb
